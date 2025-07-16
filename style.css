@@ -95,6 +95,7 @@ body {
 .contaner{
     marign-right:20px;
     text-align: center;
+    gap:30px
 }
 
 .promo-content h2 {
